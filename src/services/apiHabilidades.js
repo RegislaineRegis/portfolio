@@ -63,7 +63,7 @@ const habilidadesApi = [
     id: 11,
     title: 'REACT REDUX',
     image:
-    'https://fernandobelotto.github.io/react-redux/img/redux-logo-landscape.png',
+    'https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png',
   },
   {
     id: 12,
